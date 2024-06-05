@@ -47,9 +47,9 @@ input[type="number"] {
   -moz-appearance: textfield;
 }
 
-@media (max-width: 768px) { 
+@media (max-width: 991.98px) { 
   .inner {
-    margin: 2% 3%;
+    margin: 5% 0px;
     width: 100%;
   }
 }
